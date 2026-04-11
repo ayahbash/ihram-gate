@@ -5,45 +5,21 @@ hajj lottery system with user registration, admin control and automated draw pro
 ```
 hajj-draw-system/
 │
-├── public/
-│   ├── index.php              # landing page
-│   ├── login.php
-│   ├── signup.php
-│   ├── results.php
+├── index.html
+├── login.html
+├── signup.html
 │
-├── pages/
-│   ├── user/
-│   │   ├── profile.php
-│   │   ├── lotteries.php
-│   │
-│   ├── admin/
-│       ├── dashboard.php
-│       ├── manage-users.php
-│       ├── manage-lotteries.php
+├── css/
+│   └── style.css
 │
-├── includes/
-│   ├── db.php                # database connection
-│   ├── auth.php             # login/session checks
-│   ├── functions.php        # reusable helpers
-│   ├── header.php           # shared UI parts
-│   ├── footer.php
-│
-├── config/
-│   ├── config.php
+├── js/
+│   └── main.js
 │
 ├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── main.js
-│   ├── images/
-│
-├── database/
-│   ├── schema.sql
+│   └── images/
 │
 ├── docs/
-│   ├── identity.png         # brand / ui guide
+│   └── identity.png
 │
-├── README.md
-└── .gitignore
+└── README.md
 ```
