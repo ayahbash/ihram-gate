@@ -1,9 +1,9 @@
-# hajj-draw-system
+# ihram gate
 hajj lottery system with user registration, admin control and automated draw process for webdev lab
 
 ## file structure
 ```
-hajj-draw-system/
+ihram-gate/
 │
 ├── index.html
 ├── login.html
