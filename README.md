@@ -8,6 +8,11 @@ ihram-gate/
 ├── index.html
 ├── login.html
 ├── signup.html
+├── results.html
+│
+├── admin-dashboard.html
+├── admin-users.html
+├── admin-lotteries.html
 │
 ├── css/
 │   └── style.css
